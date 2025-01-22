@@ -1,5 +1,6 @@
 # web-application-firewall
 
+A simple web application firewall implementation using langchain, GROQ and fastAPI middleware
 
 ## How to use it ?
 
